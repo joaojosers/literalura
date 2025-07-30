@@ -213,5 +213,5 @@ SELECT * FROM autores WHERE nome ILIKE '%?%';
 
 - **Desenvolvedor:** João José Rocha de Sousa
 - **Email:** joaojosers@hotmail.com
-- **LinkedIn:** [(https://www.linkedin.com/in/joao-jose-sousa-developer/]
+- **LinkedIn:** [https://www.linkedin.com/in/joao-jose-sousa-developer/]
 
